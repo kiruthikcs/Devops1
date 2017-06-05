@@ -1,0 +1,5 @@
+projectKey=Devops1:Devops1
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Devops1:Devops1
+ceTaskId=AVx2UCrkEQoJho3FC1hc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVx2UCrkEQoJho3FC1hc
